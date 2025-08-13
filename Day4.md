@@ -1,6 +1,3 @@
-# Day 4 classwork
-
-## Add an external CSS file and link it to your HTML file.
 
 1. Give .box a border, background color, text color, padding, and margin.
 
